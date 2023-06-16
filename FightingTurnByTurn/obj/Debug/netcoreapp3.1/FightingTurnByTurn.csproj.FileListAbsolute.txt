@@ -1,0 +1,14 @@
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.exe
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.deps.json
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.runtimeconfig.json
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.runtimeconfig.dev.json
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.dll
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\bin\Debug\netcoreapp3.1\FightingTurnByTurn.pdb
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.csproj.AssemblyReference.cache
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.AssemblyInfoInputs.cache
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.AssemblyInfo.cs
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.dll
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.pdb
+C:\Users\Guillaume\source\repos\TDD_CI_CD_FigthingTurnByTurn-main\FightingTurnByTurn\obj\Debug\netcoreapp3.1\FightingTurnByTurn.genruntimeconfig.cache
